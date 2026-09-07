@@ -31,13 +31,10 @@ My interests include:
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
-* 🔥 Deep Learning
-* 🔗 Large Language Models
 * 🧩 AI Agents
 * 📚 RAG Systems
 * ⚡ AI Automation
 * 🐍 Python Development
-* 🐧 Linux
 
 ---
 
