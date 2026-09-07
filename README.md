@@ -29,8 +29,7 @@ I'm an aspiring **AI Engineer** focused on building practical software with Arti
 
 My interests include:
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
+
 * 🧩 AI Agents
 * 📚 RAG Systems
 * ⚡ AI Automation
