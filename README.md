@@ -16,7 +16,6 @@
 <p>
 <img src="https://img.shields.io/badge/AI%20Engineering-In%20Progress-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering">
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open Source">
-<img src="https://img.shields.io/badge/Linux-Power%20User-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 </div>
